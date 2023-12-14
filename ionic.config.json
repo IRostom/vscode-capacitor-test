@@ -1,0 +1,7 @@
+{
+  "name": "vscode-capacitor-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}

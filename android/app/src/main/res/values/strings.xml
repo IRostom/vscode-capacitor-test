@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">vscode-capacitor-test</string>
+    <string name="title_activity_main">vscode-capacitor-test</string>
+    <string name="package_name">vscode.capacitor.test</string>
+    <string name="custom_url_scheme">vscode.capacitor.test</string>
+</resources>
